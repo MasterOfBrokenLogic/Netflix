@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1632397398",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A374.612%2C%22throughputNiqr%22%3A0%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A374.612%2C%22throughputNiqr%22%3A0%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1656157434",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBENfqn-A9Su9olluxEu_BKxCCIMVsMOL463N3X4QYfxbt8PqudDyKSlzz0eDDZxpCHKyTUTyaeC6Uvm8GgnJEZrXdz8gvfbNDE4dyf_K2cbiRVjbWu57g4pY_XjwuNqzNt5KfUexgr9kwpIeJLnk6cboNSzHxkkbGdoKQgWU1Ox4Nor13vVU0nK8LSUqCXLRp5ElbrKVGVNvpdg8w6855wcrSYO-TbxDWQVvmqZ3ZDBEFd896Mej7rycb1UYMmfFczmy_rJuZZiLbxU-GSDdV8yUGKTuCP1YAF6y6DSq263mYUoUdAVX6NTsP7vBRr1d5toLy-iCaugHUr2s-exQE1TpjpTIO25XlWITwLfRABlQfKIXz81y1obn1E9hfKKCn4pDaJgkdexGg9pPo75datdJl5lPEc0W-S2Dh-8liHNktRc51OnVeX88SIzVezLn7b8DTlem4W-Q1s9gprHl-zrxrUt8V1u7GoLvef3iNhwNPa_-qbTqUweyYVdwKrUhRJERgpO3duFEJmDcMdJwmgl33ZOrbP1Dlxx09mE-HVx4eUoZye_BaT-xrpRSOwVJ0Eo_HkmFd--ETqdj8UEVfrUHNgZVNIbNGo_TQt4YdV3VDJVMjEodPOXRZRSnUgnTzXEeYOjTkAvsvE2399LUOkEBVw8NPny-jF7Sd_Cp0rQ30IrohO5_9R44M9kdJa3tsGNK571a04qBqK2v0PmFbjd98Nj0LMTurgBEz5OAbfp8-BeI.%26bt%3Ddbl%26ch%3DAQEAEAABABRqo7w18MZPvMl9zfGxytYcK3_1otpumL0.%26v%3D2%26mac%3DAQEAEAABABRkO_GEcLxzxRPbASQKbtK2P2AqpKKaNws."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1656157434",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQAPpGqdQc9Hfqivay42HaaD2ViVwn2daU.%26dt%3D1624628634511"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1656157435",
+        "name": "memclid",
+        "value": "1d54b228-ac38-4c28-b0d5-6779bb4388c6"
+    }
+]

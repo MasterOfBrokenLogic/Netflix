@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1653825019",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEOIV8JBHJvC3fLm5GNjZp5OB0MCqYjic5j2GlUyh6hoLhU_2tWM7HWo2YAT3pVEK_G6aiqn7WnfMEprE9YituwzjhakHTmgFI_JPSdyp_4D8Zs7jC5YL0Er3RSaeIcFFOhNyQQqAzFdFZfvPxVHQpSQ89hksAqU9xTnQLK0qqNOcd2PpfgjejKlgCJYxrtq7VoJLsJ2PjXuc-3yUVQUlGovOAIcOU1dj0sXJ4qKCbpWYyCo0uxiFhcdJEXo8PeCFkc8HFTVN5Gbw_SdTkJcPzB1v_ne7RXLdyNs7AVOpHY4KX4e3B_uKM95HwalYqRA_a-9dY0BUqd84PeuQXExVe42_uf3Fg67fqZHI55JFH2hph5uY3Is0ejO0kWS4r7fK6L-Ko6IETMc2egatq13siWf1aSKXpqK8-o9xyX5ffBHzYzLzeurD-YQzBQ9poCnlhxKqhk1fnYIB1Kb8lklyV6WPiwgcnpiPQ1fEJxbK6O7LIPt-WqFGZ7-rGy9WUgC0wP47Xa6y66V_rumq_5b_LE5sjaUs4wcJjT8WdKoyLWCi5WHOVsYaSVDDg3UtycUtpUV4hLQu06hW3FBYH0J0eL6Y438lSs_lkmzh0sQ7EvF3_Cw3OMslz_U7PdSlKC1YEz95%26bt%3Ddbl%26ch%3DAQEAEAABABSN960Rg8SCAeJMOZxUNZefusInOzKvaRw.%26mac%3DAQEAEAABABS50YnL5OiXhtc7EtsaXcdvgftXPloVJhg."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1653825019",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABTu6jqvTV3tzjGCkL9go713sT7KfWDKUtw.%26dt%3D1622296217378"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1630065020",
+        "name": "pas",
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1653825226",
+        "name": "memclid",
+        "value": "138ac284-fb6d-4c02-b6f8-f36d07354150"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1630065226",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A21308.4%2C%22throughputNiqr%22%3A0.6127158627796012%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A21213.7%2C%22throughputNiqr%22%3A0.2977515291575677%7D%7D"
+    }
+]

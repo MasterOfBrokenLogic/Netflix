@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1655881201",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEKM4okeNMFsj_EMPQ88TsvGCEEGWTd34iOV59IIsRBnqSA_VCdRV-gyF_qqfAJr3H3Ahld90YuWPOp1qFl1NcwkvPB1ABcjB8WsM1ZEIOyq_BR_5er52GE7nBj0DIN-ChUUzPHSujnNLSINYGj-h0F7uyymfz7wfRqMh-Ubti8L78f6cD1rhUxaUNDvxQetFFEHrum_EVXyBXmD-XpANQsdZjIbrWsXqwU2QfApqSz4yJ8dXGO0b7mpYo1PKj_lM1EItl5Pb0kVFMNrZG3X4-sALJZhTD84oB8rsmjR1vhLC_N_49TXERp1RC0KcLxkQ9C_h0Ni6xLO3ZEKXXU7F5iMOpPEmVXBkH5Y0VHjwotxQxBPb_saLiNdyfYYghhPO26-J1r3i7VoFOgFkywn88w5P4OywmTripbmaQkVkmEpZO-L3FLhS-dN6x1NsXpa6faq6DdNPXNgy-agek-OMsgFyZXJ-4MnxiovRR3SCTUGNP5NpWsqmlI_3P5WlR0IxTQeQV3fDf-QysBk6NaKMit9DCe7OEPA7Mh4UQyXjbyU59Yql6vHoRosuuNs_Ww-uN0F5KuPGmxzDYu7dZAbxyOcXYxbbEHjyC7qh4EGoxzyYli0OZ5OoL8g8v2oGOkPVp1S1lTksppO1t5hPwhfXGgYVetLBBoZ5fGr3rQsLtx0BLv42hN_31AZxvLNo0A6KpciEUWhH8odV662xNGWAhI5fvg..%26bt%3Ddbl%26ch%3DAQEAEAABABQE_uVY4X7N9VyCeqTWZ76f8aR78_Ak35A.%26v%3D2%26mac%3DAQEAEAABABTgoBheE6qghjcUz3VGn8Nv1ZkUf_AHNOg."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1655881201",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABSPXSTQKVYbgWEZD2ae-K7LbnyeSUUauk8.%26dt%3D1624352403277"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1655881201",
+        "name": "memclid",
+        "value": "d3d5273d-4ba3-456d-a50c-71c49ac25e3f"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1632121201",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A31083.5%2C%22throughputNiqr%22%3A1.215427805974378%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A31083.5%2C%22throughputNiqr%22%3A1.215427805974378%7D%7D"
+    }
+]

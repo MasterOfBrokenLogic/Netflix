@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1657180914",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEEI5FJj275tuztFxHrny4zeB0FVf7m4ZVC2K0bBAcwddxkGxiF-oQmuRrY_gezXLuiFN91e6siq8f2iHh66cqMywcLzqLGxQYHL43pr8DwiIUwXpNwi7ZA3DHsidMVfOHCHFV1lRAdbpObDC4Xj-E_ReOwtU81yMKRY5hhhWD-chVwkldHIDVMRWVeYfusrp6fTv1EcHWl3GchapJT7gene4xdyGQrBeZEPcpV6Q1IPIXUMCHMw4Ll7-X6I85Iak63BN8kP6kHDaOOknVbxQBZFxHyLMBEMJ4sJ7a67M7qowYwl3dtR_jdrrzmdqJCI0ZD3-yAyUrNftuPHNN1VzGmwLgtNxezDTlMfwHfGEW1x-iCgcAs4BW71xyIUdrxTAZhT0ZzIu0erjs1aPWC6_JbsWGyTp_Tc23BL2_otwtzuX4v3ZOsBE0ZXiL8vVzshb1mGeTUHUmPSIZbN2U4el8vDUxTqLimndy1I2w79wnS0F7xCE8uqR2XJ_7wyaSChNBbspHBTb7ZH6GwPIxhsMSsgA-hbvqg5MBDFxbd1DFY2UWOPEftcA0hgF4AUdpewnTabR9GH5Qk71PeIcl726fAV1G5J5Ty1PvCC1eK5lRZbSwp3NRZvRJzAeaJiOpbTSlBiK%26bt%3Ddbl%26ch%3DAQEAEAABABS2pg0OPwy7coIS9NFrBiAL4-QLfA9YX4Y.%26mac%3DAQEAEAABABSazQhvD7MN3jkZt1CGydW15gZh5pGPELY."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1657180914",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABS3PiMG844bgxHk1KI0Surwp2qjhVIwopw.%26dt%3D1625652113826"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1633424933",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A15829.8%2C%22throughputNiqr%22%3A0.550030212176152%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A16620.1%2C%22throughputNiqr%22%3A0.3091207327997375%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1657185933",
+        "name": "memclid",
+        "value": "893950c5-4235-477e-b363-be157c622d0a"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1625651968",
+        "name": "profilesNewSession",
+        "value": "0"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "0",
+        "name": "clSharedContext",
+        "value": "3434e6f3-44d0-4c67-b26c-92d3d1cc0777"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1626142610",
+        "name": "flwssn",
+        "value": "1fffc500-c146-4a0a-a342-79dcbe104eb1"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1633907810",
+        "name": "pas",
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1657668720",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEGCHOStuToH_Q03-5632InqB0GfzWUvYGpP_yIoK25SoXb_E98zvzcFaCQKvy7-U9LKH0FIiTEQR8c1goj7Xxl6q2cnMuRQiewRn9kdevZ-8k73JR3TwvERiiYS6N_VEm3JH-KGv1z89zXnrfG-Lpq92eF9BifGu8WhBfiauUGmOvd6G5UlJNraD6-qX4DksXvSK6mQkHwBVehmpmqHLdmbFny1siIT83BKjyLcFgvwQhC1WWPr2qJ0BYaEdxHnXz318vgqFxMaBElv5gNumD0VYyv1G1SnSh0dx2BEfGMN-cVDsTEjYGyxqEgxJ6-CXH23DxRZRIPcYyUNAnXJqqkiPB91fifo-7mYgQ_utTlfJNc8P04joi-6wdWjI12z4nBZcucuXEkLZVYgdmOjQYuBE-l69J9rnfVCebVxIv26CHSYXjEFOeL_ZbCqrs951v9nEjHhcSRKmqQZwGaSLcbG7SvxE0RdSR5y4HXzH4kP06rHVhOUQezqxQp2hFsdSS8IF3AVSB5oefVIsWWmJR6uRGjPqvgZ-nN9ThyWaf-8pJaWNKBx-A2uisv_3shIHaw7G2d4Ms6tEWBFve6K65Xla-6ysG-SlWkdYJPLa9ao_txOLAPCNSiYLF7tfTajUUyC5%26bt%3Ddbl%26ch%3DAQEAEAABABQIkz-8kQz9e2AGd4w4QHFjGx2vZpB4Xew.%26mac%3DAQEAEAABABSP_y1pOVkEcjP33GOt8NlJ-rbqsKw-oSw."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1657668720",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABRBbe6dsqHD8IizXG7k1wpEFkq19GqoXG8.%26dt%3D1626092887800"
+    }
+]

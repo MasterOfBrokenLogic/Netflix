@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1656737203",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEEzCb6fiztwvALxLjEb6XuGCEE2Y_dmSBXk74Kdv3Mq9fksWqDnm4_03VRsnQEQgyXLIpwyKHgtyCAIzSlz3CGdVqMeyBO76bEFmTHF2iNaP3iFibdhVtCFj2PC9yTOGdebXjTC-2bs6taIB9bcXcJPE-yK5nt71ok9uHHxjku9LRkWaLmxSTGbAUK99ANm79xGIB3VFWbsILoiSBaGvmQtp6OMAwrqxweCnZnj1MfaaDN5_BXsIo0dSauejgh96JlrRXpc07HFWtxDTBEQvqTDMCyWaHxmLpMAjF5E1Z8tB0srYDTLK_l2oN9ka8dYYnYRC-Gm-EpVciHkPI5SkD7G0our493i0uGTCoMG_JQBvRB3IeQCT8oi4FhHtYIRKp0Bz2ioW_bHzceJdZC0YHigMls3_oX6-Sv9Nef7YOJg_wE39CK0sDdQrWAWVdQHDYuKxSC78Tzbilat3w6VlabaeEz2NJUJME7KODGEskFIxIfS7H69ezuBWgsJ6qStpuaDjslpqmBhqw5vC4uvbDmRi0ndvn1zclkWrR2TYHLxlSaGdS6vGMiUkl5VYP4tEEK14oH2256JnFIxkYiVVPuuJKjNklh0sQVEUgVSqQDOrlqyMLTzxM_rMgfVKzDcAbcaBHIbWxtQDH-rrY46dsF3yX-tjlBMJOjKw8UNqLxAAiteX_tfBvfaBA6GrdIkAfs0h-AP_KiJhvCPJKaP5n4_agw..%26bt%3Ddbl%26ch%3DAQEAEAABABTdB4h0AEQqF50Zbn3BB3xmZ4s9LlerWWg.%26v%3D2%26mac%3DAQEAEAABABRewfrSU3KYPSGU3PZlNwakY3zt_KMhZR8."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1656737203",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABS2-oIliqvwfC18QZcWh37W1SZPw5a5N_8.%26dt%3D1625208403898"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1656739145",
+        "name": "memclid",
+        "value": "7fb2187f-c9c3-4403-82ab-10e2ab388096"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1632979139",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A1019.42%2C%22throughputNiqr%22%3A0.5835773393570706%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A1049.84%2C%22throughputNiqr%22%3A0.1859472508552916%7D%7D"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1656572925",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEG554p0xmBaEAmKOtCTg6RSB0PB_Lfoppv3ZxNBWJpd3MHsp4lSr0oOX0Nv9HF0zUI7s9e7fe3QvOHH8a7EUvpYTIgQVhofY1CAjoI4R6teMOilA-oSeNFteGururFMKM3iGVeNOHTnNed3h96k0tz8pT1UzOVmIHr2pIrk1iL3D8NcOML4QZc7fxaUQYOWJYDHTVW5jgi6s5Pv7P9brnnm9_GRE1gXKb0qrqqi3bBIF16es0yaFjMTL_vLRcHLwvNegWHN_j6K8RIbQOj4hVdIUJoZtXYiHlKWr3HEa3336G8lr_UZz3OQ1iDBHqWkz1jYKzAuD4LJSMAaQQdiLLENsGNOfzKhQYgWYLIE5j1sqQUctXRfYtKp3mVL82GgRQFJ8zPjegCsBF9PfuRLc9wU0R5QcgyBHbjgpvencFuDlRyoYo6Sij21XHQyzgba0WnGpFhqg1bOVXlTsosKaYrgSAHp7x4FMakM-erI5V5dDoX4fb715JQ4vQ1lsjh3imCTB4ivqJoT54DozJmqq4GBQyouF8Xe2Otpt3-NmSR1PF8VHP41f7KrndZZ988bVfapRY9HaoSFK16w9_yuuNNPIUVuaJjO186dEVZ1VgohDITXHztTyXrm1bU4SkvsQdxsf%26bt%3Ddbl%26ch%3DAQEAEAABABRQ4BMXCx3jchUG9Ni6Yq7baw14xG9tRHQ.%26mac%3DAQEAEAABABQBQ8YCiHqX7fqLRG9HGf01ENplDpI-_AE."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1656572925",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABSrVRzmapDYkNjiNm_wcEyTf4ig2rDuk4Y.%26dt%3D1625044125736"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1625041546",
+        "name": "profilesNewSession",
+        "value": "0"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1656575798",
+        "name": "memclid",
+        "value": "b9ed240b-33fa-4a6d-824e-f48eeb42a269"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1632815799",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A21368.5%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A22598.6%7D%7D"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1653752119",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEKEXQVE-JDYj-RjOKVzGBzKCQCeDYRRR-9u4MDlf63Yj8ul4F5A_rq2NqYYkJxpBY6bXXADumhCHMVRXSG1szcZJqPGWBRniTRDTKEfTrfQ1VTcR4sZQeMzcjA2WLbetthlp1bIHPUJKjOXE8opZKVmCUsSgsD2I0mHBm6sN2W9aB4CGOd4qHC5zva-dauY42BmW0pppCHKGjcVi5-w479mbVKNvfQEDZvbpPCF8p7Jd2WjJefFaTvhVHPonwQqhdGXQS78zpO3XeRrpw0cjKJGjPjINa2Jvj05f4tjV3GVB4BJ49mGSfb6DE0Nw9o39qLN8JkgPHoEeh1LMCk14gqw57WumpYy5cr3qZwsionWvASeCcKmZDK6D_bNE_-nZeWBihMraygxn4zkBEaf8EZV-nkCA6j26VDuhLObC3uBRUcHJCjC4Pr3Pb4IwsAXcnnBeb4d9xHC23GwHl7zk_cX0RAdfAtmc--NmUVRVFuNJaJdmH3WAY15RiQzwZp-_e874RzH5DihIhBN8gy7lIdZQfyVT0u2blJu88rwaw2hBmDBIfY9-ZQJaTsrNtX-UkZdTORuiPD7tSJAy6DFwYW8zxyCJIHicC1Mtt1gCQbdjb7VimqCOvT9XcroItQoKFo6ryssUZeMVEp4_uvEwp56i51aQ-gMNV09j4b2C4rHIH0_FqUSVZifo0OW5sYXJpM2FO_h-XmygKERoFWY2395RcrqiqQ7cGCMc6iDqeWoeIfoqS6aGMpLG8KzrVxjYu8CTV4Pz6HvcrCLJgNBe5bhCyg..%26bt%3Ddbl%26ch%3DAQEAEAABABSJtTVBZOxZIQEmP88nEsRmj9X4SVU6ARo.%26v%3D2%26mac%3DAQEAEAABABQJhedcco-91fwjSojLMos74gwYrhQOT4U."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1653752119",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABR9SkKNXgQ0fvR_CRfItgey9UlyxKNPKGc.%26dt%3D1622223319675"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1630032842",
+        "name": "hasSeenCookieDisclosure",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1653792849",
+        "name": "memclid",
+        "value": "316888ca-9011-4569-8fcb-8a6b44589c5a"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1630032842",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A3283.58%2C%22throughputNiqr%22%3A0.3172223746401515%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A3283.58%2C%22throughputNiqr%22%3A0.3172223746401515%7D%7D"
+    }
+]

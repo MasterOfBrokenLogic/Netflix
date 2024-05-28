@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1657279025",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEFbpFemg3Lh575vecF0TLQqB8EHsluLdOAUThFzI0bvp7QeyMlZxPBNeFsDLyvMmd-YNiDWkQU-nXzedyRcKejgpzqnsCqWC1REvkZhRXk1GDeYwbhYylEYeKduGqd7A0d_Q4QrnE46qk7rfOUshqo7EKiVPmzrhgAkX-ivukzt_KY3ebWooxOZosUkQceul8nk42P2adr2osrgjTR8hxX3Ll0f0FFh7rni4Vrsec47b7BImosSYTF7AWEFaLiXr0G2Kz_DJ9NV_wH_NZz3869NCKJ4BQwGtALD5-OIRabDxskMqcFV1B4pIZpO_oF1QliDmy1phXmQoGrdLVWM5adUCs41hpwj6wjbSZEbej1zny058Htn6Q9WSS3xBZuo7bFB2GYsSUg8evxenq-VbQ6VsiZnwElSzq9u3wRvVCWMmWY9MvLP_vvHqS1i57xilILreSo6wBGQCe8_skkj5tyd21kcPFGI1i6U-_pt_2K4QuF6tgZQDjLtUfiwav5UqJ7cyCN3B10Zu_nrZahUaDAXRW6ooa4SWe8tOVUXiFlWBTCeAcEFQq4k8ay4SPxumqPUNr3BmO7yRALkI69SqoIQ3aFpJTHp8XLc9PX-lThMvmGoqf3sADYkyQGS8ST0hbUnEgJ8bPkTceHaZs2zhFYWD-mFL5Mp2ww4cYH7NHT9ZKPo.%26bt%3Ddbl%26ch%3DAQEAEAABABSFFPYt6fllcXZ_tDrg6eYothsmK98Qc9U.%26v%3D2%26mac%3DAQEAEAABABR4KCDVFvnELN3mfaM5L41rFzzFs0Wslus."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1657279025",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABRS4enUJFZFhQHxMtmlANHmon6EPO-GB2E.%26dt%3D1625750225739"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1633519025",
+        "name": "pas",
+        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1657280411",
+        "name": "memclid",
+        "value": "01cd2672-2599-4214-96f0-4a77bffde73b"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1633520459",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A64036.2%2C%22throughputNiqr%22%3A0.4946247192898066%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A64039.1%2C%22throughputNiqr%22%3A0.4946247192898066%7D%7D"
+    }
+]

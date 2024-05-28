@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1656420380",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEHACYy4KGsZfXIHDRsleIdqB0B432r8YrpUboqVeX4LdpS2Rd8ylL1TvGFBdbw9-ejScPTIEt7oUprNbRn7WxKNJPaz1wRH-I89R86pugkpzKsxeoh_VFfJ6a5GEK_6TX2cv7qG0jjDlQClVBuj-q1JTKvpNqzJ7snJRHkNdnKqMnlaLdnJCoWTEMy60dtgoRGBGkfWH6x8Qu288ICPCUUSCiXn2hbRibLS3RSIHPso0Hv_4PfSIsRwGmTDjxn0ToJmn5f89gg8MPAqIAubipdcKTMcgLQNlBUXf6R10iDiS7IiTXGj3mn9v_-QvU3IC1OA-6BY2PoQYr4sEekEE1hpw86fqmbGEV1CaHxLgaFfXQbKg8xbzDjOflPwii19wXEOjrOOaUnMi2fX9Otws12ZCFHPVreHSZItNZG0uwjCIuWO6wRWibdWMGpA5DmPzmpqxMbc89pvjSIlUO5kanwqloQQ-OSUH33zrjyZx5Wmnami3NNdXNU2dss2H0UtTQYJx6x5F-Ci2Fta4jxxuwhIGJGjErxAZ5tFqCZj5cEAWtYeNkED34nkNtUAJ5k3nCuYNSvBY0V0_hUbaG4duUpmdyfvWKQQVLKsRvDY_2ZpiO8Eijff4TwJZ6hY21t1t-ga8%26bt%3Ddbl%26ch%3DAQEAEAABABQ0HH7LNL4ywxHLwYOg0kWfOvcFJoIhnfE.%26mac%3DAQEAEAABABTuTKmFKLxMwGO-cWv_cwpwBKSD2yaSHME."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1656420380",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQB5k19FA1VT-xZ0TRpjaBIFDC_v3nb9EA.%26dt%3D1624891580975"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1632660381",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A13762.7%2C%22throughputNiqr%22%3A0.8842477287434923%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A13762.7%2C%22throughputNiqr%22%3A0.8842477287434923%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1624886273",
+        "name": "profilesNewSession",
+        "value": "0"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1656420475",
+        "name": "memclid",
+        "value": "dbee6db1-dce2-40c6-9e7c-a66db4f9568d"
+    }
+]

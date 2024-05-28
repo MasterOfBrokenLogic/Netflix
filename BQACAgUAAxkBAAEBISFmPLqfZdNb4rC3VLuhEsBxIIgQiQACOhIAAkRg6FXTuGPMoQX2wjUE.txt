@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1651604071",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBEOFXPw0L4I0jzVyoLhcI3NSBwD6ap16wwzxQG_ujIHx18Z9qQ9v50tX8xg6SP5KKQ0d0yYbrw9B5w_UwMBSMTQv0QulCxJZQc6C2Txyqdt0AHw8E3XbFW3ZpYQ2qlDBK-OenD0-dHlxgXZLWXOwfc6r962ndSHd5woR30yNZoDhF9byl3YGyRERKH0JcOXA437OybQybDvK2Ljej8QtqSnt_mnUhNScdYWHMV3M6ZXxV55XzZyx_NQdRTuK1czUS_x4dFFX4T8e7VU0HvIVaUYTXEIbk6K3CFi3o8hvzDPSu0qqX9zk3FoSKVK4dpViYljZhacp1zI2fYBQDG_yxNHxEi2nSGWkHGhJnZd_bkkoUQR0Cwrt37EeTICuwZRimwOni9medij0w4U5A32zpsT2W13aciJUGpOIlL_fu0lk9aYBPsYKu841LyTY5avgsZP6UtEf59_HurrRAv2upoe3SdyOVVc_XKZa0U-bnLi7gyA2C7pAwNmySAYaafeWya8KBTRhpfQ6pOj-Gb5jBPicfADleRPn84Jv83V5ZyD4RFzYy5VI2-x-UkxF04A3l2zeix8-96vcRArAZ7_9TAksJ4Q1U23iM8vx6vZXkNve4Dio.%26bt%3Ddbl%26ch%3DAQEAEAABABSjM1lG_G2PpwggR6AHcLYw7t51fYHWosw.%26mac%3DAQEAEAABABTqFhk93mfirJ2MudmXA1wkACx0qhg8WRU."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1651604071",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQvq_Urbu6EJnJYQ3-H3XXY0JCytramasg.%26dt%3D1620075271115"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1627844071",
+        "name": "hasSeenCookieDisclosure",
+        "value": "true"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1627844084",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A202.073%2C%22throughputNiqr%22%3A0.12735211879604316%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A280.244%2C%22throughputNiqr%22%3A0.12735211879604316%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1651604129",
+        "name": "memclid",
+        "value": "2d31a126-f13e-4975-9241-17aaae0b9504"
+    }
+]

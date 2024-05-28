@@ -1,0 +1,29 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1657313448",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABTfngHAAuuCBbPfKexauWbq6MjHif1Z0QM.%26dt%3D1625777448368"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1657313448",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBEOzY7nSnHRlIyCuCbBbvvYqCUPb8vB5bcQTGpVOuMfcvQqpVELGaoXl1_AMDxvUwRfr7UHpayMeDvu4L_k6MRXVSpM11UswTZuYZKeGBQ59DVFXE8KlyJNYrW_KktqaKrLHEVb03ESMbAjlB8gN4Bo8NUclU_z1KfGOaAuuOT9Cfu-fheZKdIhBdJU4VvQHuynkqVXy7e3rKox8wj4jJNwJNcFpAHXyIagk1VfLOyGlatO8M2MCWp--ejtg8GRpzZB678c6RjGwA8jEYNUISSINuYvIhiFPQ3279M4slMhpnWRl63AjjrNpb77lOPDLvAY0d5wxUL1tkDDxUpyMHbhmXj4r3eM46xF5BF_bk5ETdFuWVf3ugPGpSZWUyWewO5rDXTw9CD6bOk71EfMF6wLsqDNyx6glwGPLwRxhBiJWdMClDuNVOMSJ3Wqeq435kicqkiBb7quhBB3lWksh3PW4ZOgZ9p_3yD1Mfb_SUEy5fspy3eufKVsRmNFgrVpPRkb-f4ewzsAj83CCMukOrq80h7984ig_GzqILd-hkbEGstaP-lFJcfbUqDie_Y0kPNM_IvBQVupG7xuSEBZRBlEQex14UyQoW9wRcuQ4gGwvKiAZg4K4WVn6kCNVkp3PvRnZBEWAgwGjYxWaSPH8IOHIot7Y0iDSVqU3GwGNAw1rAvFBBSzTXh9jT6kaDKY0YTggXxqyTMh4H0R7yWeMjSxYUB45eMEbBFVxp1qoTzartPuadQm7iKJ4k0wZ6zA500u_CXG8U4z0eO8li15SxVuOkMdIoCFQPLxdtN2e-m2nJz88.%26bt%3Ddbl%26ch%3DAQEAEAABABSIXlYW6ZnFm-83J-JM5QIwQM2jqS4UK8k.%26v%3D2%26mac%3DAQEAEAABABSj5BkX4yo8SVsomoMo50xOfxDnr-wD2Lw."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1633553086",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A7965.52%2C%22throughputNiqr%22%3A0.8159820277364013%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A7966.41%2C%22throughputNiqr%22%3A0.8159820277364013%7D%7D"
+    }
+]
